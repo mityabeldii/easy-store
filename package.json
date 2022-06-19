@@ -1,0 +1,27 @@
+{
+  "name": "restore-store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mityabeldii/easy-store.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mityabeldii/easy-store/issues"
+  },
+  "homepage": "https://github.com/mityabeldii/easy-store#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "restore-emitter": "^1.0.5"
+  },
+  "devDependencies": {
+    "prettier": "^2.7.1",
+    "typescript": "^4.7.4"
+  }
+}
